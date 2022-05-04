@@ -8,6 +8,13 @@ You need to install [Node.js](https://nodejs.org/it/) and [Yarn](https://yarnpkg
 yarn install
 ```
 
+### Install SQlite
+If you already install you can skip this step otherwise download SQlite from this [link](https://www.sqlite.org/download.html)
+
+Once install it, open the File Unix <code>sqlite3</code> and type <code>.open THE_DIRECTORY_OF_THIS_REPO/data/sample.db</code>
+
+Then type <code>.tables</code> for checkout the tables. 
+
 ### Run the Server
 
 ```

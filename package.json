@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "A demo for a local server",
   "scripts": {
-    "start": "nodemon index.js",
-    "server": "nodemon server.js"
+    "start": "nodemon index.js"
   },
   "author": "<stefanovolpatti@yahoo.it>",
   "license": "MIT",

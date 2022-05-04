@@ -1,0 +1,19 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "description": "A demo for a local server",
+  "scripts": {
+    "start": "nodemon index.js",
+    "server": "nodemon server.js"
+  },
+  "author": "<stefanovolpatti@yahoo.it>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "http": "^0.0.1-security",
+    "nodemon": "^2.0.16",
+    "path": "^0.12.7",
+    "prettier": "^2.6.2",
+    "sqlite3": "^5.0.6"
+  }
+}

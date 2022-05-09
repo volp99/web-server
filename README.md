@@ -3,7 +3,7 @@
 ## 👷 How to run
 You need to install [Node.js](https://nodejs.org/it/) and [Yarn](https://yarnpkg.com/) first, then:
 
-### Install Dependencies
+### Install Dependencies:
 ```
 yarn install
 ```
@@ -15,7 +15,7 @@ Once install it, open the File Unix <code>SQLite3</code> and type <code>.open TH
 
 Then type <code>.tables</code> for checkout the tables. 
 
-### Run the Server
+### Run the Server:
 
 ```
 yarn start
